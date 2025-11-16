@@ -7,7 +7,7 @@
     --color-fondo-principal: #f4f7f9;    /* Gris-azulado claro para el fondo del BODY */
     --color-fondo-alterno: #FFFFFF;     /* Blanco puro para secciones alternas */
     --color-superficie: #FFFFFF;        /* Blanco para las tarjetas */
-    --color-borde: #77767c;              /* Borde gris-azulado sutil */
+    --color-borde: #dfe6ec;              /* Borde gris-azulado sutil */
 }
 
 body {
