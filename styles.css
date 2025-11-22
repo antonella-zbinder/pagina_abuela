@@ -483,3 +483,38 @@ body.is-loaded .back-to-top {
     transform: translateY(-3px);
     box-shadow: 0 6px 20px rgba(0, 51, 102, 0.35);
 }
+@media (max-width: 768px) {
+    .enfoque-grid,
+    .filosofia-grid,
+    .proceso-pasos {
+        grid-template-columns: 1fr;
+    }
+
+    #sobre-mi .content {
+        flex-direction: column;
+    }
+    
+    header .container {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    header nav ul {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    header nav li {
+        margin-left: 10px;
+    }
+
+    .contact-card {
+        padding: 20px;
+    }
+    
+    .hero h1 {
+        font-size: 8vw; 
+        line-height: 1.2;
+    }
+}
