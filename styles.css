@@ -22,7 +22,7 @@ body {
 h1, h2, h3 {
     font-family: 'Merriweather', serif;
     color: var(--color-primario);
-    font-weight: 700;
+    font-weight: 500;
 }
 
 h4 {
