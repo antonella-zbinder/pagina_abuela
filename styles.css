@@ -32,8 +32,7 @@ h4 {
     font-size: 1.3em;
     margin-top: 0;
 }
-
-p {
+.text {
   text-align: justify;
 }
 
@@ -474,6 +473,9 @@ body.is-loaded .back-to-top {
     pointer-events: none;
     transition: all 0.3s ease;
     z-index: 1000;
+}
+.text{
+    text-align: justify;
 }
 
 .back-to-top.is-visible {
