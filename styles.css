@@ -4,9 +4,9 @@
     --color-texto: #333333;              /* Texto principal oscuro */
     --color-texto-secundario: #555;     /* Texto gris más claro */
     
-    --color-fondo-principal: #f4f7f9;    /* Gris-azulado claro para el fondo del BODY */
-    --color-fondo-alterno: #FFFFFF;     /* Blanco puro para secciones alternas */
-    --color-superficie: #FFFFFF;        /* Blanco para las tarjetas */
+    --color-fondo-principal: ##e1e3d6;    /* Gris-azulado claro para el fondo del BODY */
+    --color-fondo-alterno: ##e1e3d6;     /* Blanco puro para secciones alternas */
+    --color-superficie: ##e1e3d6;        /* Blanco para las tarjetas */
     --color-borde: #dfe6ec;              /* Borde gris-azulado sutil */
 }
 
